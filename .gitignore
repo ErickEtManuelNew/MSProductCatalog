@@ -1,0 +1,50 @@
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Membership DB
+App_Data/
+
+# dnx SDK
+.dnx
+*.xproj
+*.user
+*.vspscc
+
+# IIS Express
+.vs/
+.vscode/
+
+# Visual Studio Code
+.history/
+.ionide/
+.sln.dotnet/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated\ Files/
+
+# Debug
+.vscode/
+node_modules/
+
+# Output
+bin/
+obj/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio for Mac
+.vscode/
